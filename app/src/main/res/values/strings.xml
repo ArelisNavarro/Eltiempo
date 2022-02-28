@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">El tiempo</string>
+    <string name="app_name"><b>EL TIEMPO</b></string>
+
+
+    <string name="titulo_lista"><b><big>PROYECTO APOLO</big> / <u>NASA</u></b></string>
+    <string name="buscador">Search</string>
+
 </resources>

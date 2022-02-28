@@ -10,7 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ElTiempo">
         <activity
-            android:name=".MainActivity"
+            android:name=".ActivityDetalleInformeProyectoApolo"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityListaGeneral"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
